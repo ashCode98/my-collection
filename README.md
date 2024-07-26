@@ -7072,6 +7072,7 @@ Standard protocols for live streaming include:
 
 # Websites
 
+- [bigdevsoon](https://app.bigdevsoon.me/dashboard)
 - [egghead](https://egghead.io/)
 - [codier](https://codier.io/dashboard)
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
